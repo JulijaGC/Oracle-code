@@ -1,0 +1,28 @@
+body
+{
+  background: #470C39;
+  background: linear-gradient(to right, #9DF5A5, darkorchid);
+  color: white;
+  font-family: 'Montserrat', sans-serif;
+  text-shadow: 2px 2px #470C39;
+}
+
+#container
+{
+  border: 2px dotted white;
+  background-color: linear-gradient(to bottom, #9DF5A5, darkorchid);
+  margin: 400px;
+  padding: 20px;
+}
+
+#fortune
+{
+  border: 2px solid white;
+  background-color: darkslateblue;
+  padding: 20px;
+}
+
+h1
+{
+  text-shadow:3px 3px purple;
+}
